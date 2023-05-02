@@ -1,0 +1,89 @@
+{
+  "name": "Mis habilidades",
+  "children": [
+    {
+      "name": "Diseño",
+      "children": [
+        { "name": "Canva" },
+        { "name": "Adobe XD" },
+        { "name": "Figma" }
+      ]
+    },
+    {
+      "name": "Programación",
+      "children": [
+        {
+          "name": "Backend",
+          "children": [
+            { "name": "Nodejs" },
+            { "name": "Spring" },
+            { "name": "Flask" },
+            { "name": "Django" }
+          ]
+        },
+        {
+          "name": "Frontend",
+          "children": [
+            { "name": "Html/Css" },
+            { "name": "Nextjs" },
+            { "name": "Reactjs" },
+            { "name": "Angular" }
+          ]
+        },
+        {
+          "name": "Mobile",
+          "children": [
+            { "name": "Flutter" },
+            { "name": "React Native" }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bases de Datos",
+      "children": [
+        {
+          "name": "Relacionales",
+          "children": [
+            { "name": "Mysql" },
+            { "name": "Sqlite" },
+            { "name": "MariaDB" },
+            { "name": "Postgresql" }
+          ]
+        },
+        {
+          "name": "No Relacionales",
+          "children": [
+            { "name": "MongoDB" }
+          ]
+        }
+      ]
+    }
+    , {
+      "name": "Otros",
+      "children": [
+        {
+          "name": "Sistemas Operativos",
+          "children": [
+            { "name": "Macos" },
+            { "name": "Windows" },
+            { "name": "Ubuntu" },
+            { "name": "Arch Linux" },
+            { "name": "Manjaro" },
+            { "name": "Linux Mint" },
+            { "name": "Fedora" }
+          ]
+        },
+        {
+          "name": "Herramientas",
+          "children": [
+            { "name": "Docker" },
+            { "name": "Postman" },
+            { "name": "Bash Script" },
+            { "name": "ChatGPT" }
+          ]
+        }
+      ]
+    }
+  ]
+}
